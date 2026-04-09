@@ -1,0 +1,11 @@
+total 60
+drwxr-xr-x 1 jjoon 197610     0 Apr  9 13:53 ./
+drwxr-xr-x 1 jjoon 197610     0 Apr  2 15:27 ../
+drwxr-xr-x 1 jjoon 197610     0 Apr  9 13:53 .git/
+-rw-r--r-- 1 jjoon 197610  7788 Apr  2 15:23 .gitignore
+-rw-r--r-- 1 jjoon 197610   426 Apr  9 13:50 1.txt
+-rw-r--r-- 1 jjoon 197610   477 Apr  9 13:52 2.txt
+-rw-r--r-- 1 jjoon 197610     0 Apr  9 13:53 3.txt
+-rw-r--r-- 1 jjoon 197610 35823 Apr  2 15:23 LICENSE
+-rw-r--r-- 1 jjoon 197610   112 Apr  2 15:23 README.md
+-rw-r--r-- 1 jjoon 197610   375 Apr  9 13:08 test.txt
